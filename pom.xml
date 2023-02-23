@@ -87,7 +87,7 @@
 		<suiteXmlFile>${basedir}/testng.xml</suiteXmlFile>
 		<skipTests>false</skipTests>
 		<java.version>18</java.version>
-<jacoco.version>0.8.8</jacoco.version>
+<jacoco.version>3.9.1</jacoco.version>
 		<sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
 		<sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
 		<sonar.projectKey>"${project.name}"</sonar.projectKey>
