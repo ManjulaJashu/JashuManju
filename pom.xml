@@ -2,10 +2,10 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>SampleDemoParallel</groupId>
   <artifactId>SampleDemoParallel</artifactId>
-  //<version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
 
   <version>3.9.1.2184</version>
-  <packaging>maven-plugin</packaging>
+  
 <url>http://maven.apache.org</url>
 
 
