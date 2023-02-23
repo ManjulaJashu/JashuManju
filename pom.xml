@@ -4,9 +4,8 @@
   <artifactId>SampleDemoParallel</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <version>3.9.1.2184</version>
-  
-<url>http://maven.apache.org</url>
+
+ <url>http://maven.apache.org</url>
 
 
 	<dependencies>
